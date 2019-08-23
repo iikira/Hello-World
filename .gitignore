@@ -15,5 +15,5 @@
 .DS_Store
 out/
 compile.sh
-Hello-World
-hello2
+/Hello-World
+/hello*
