@@ -1,12 +1,12 @@
 package main
 
 import (
-	"time"
+	"github.com/iikira/Hello-World/hello"
 )
 
 const version = "v1.0"
 
 func main() {
-	print("Hello World!\n")
-	time.Sleep(3e9)
+	print(hello.Hello() + "\n")
+	hello.Sleep3()
 }
