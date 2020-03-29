@@ -16,5 +16,6 @@
 out/
 compile.sh
 /Hello-World
-/hello*
+/hello.aar
+/hello-*
 *.h
